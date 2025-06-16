@@ -1,6 +1,6 @@
 # course-p5-projects
 
-Final web programming exercises from the JavaScript course:
+Final web programming exercises from JavaScript course:
 
 # The Great Guessing Game
 
